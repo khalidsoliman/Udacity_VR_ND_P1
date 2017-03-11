@@ -8,6 +8,12 @@
 
 * Developed for Iphone 6 plus 
 
+# Time to edit
+
+* 20 mints 
+
+* it can take more or less depending on your skills and your device that you are working on it.
+
 # FileContent
 
 * Brief description
